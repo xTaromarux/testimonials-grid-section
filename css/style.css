@@ -92,6 +92,7 @@ body{
     }
     .item_1{
         grid-area: 1 / 1 / 1 / 1;
+        background-position: 90% 0;
     }
     .item_2{
         grid-area: 2 / 1 / 2 / 1;
